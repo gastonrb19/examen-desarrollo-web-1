@@ -1,3 +1,6 @@
+### Video del proyecto:
+https://youtu.be/7Q_sTMvF01o
+
 # Proyecto VentasFix - Sistema de Catálogo y Backoffice
 
 Este proyecto es una solución integral (Full-Stack) desarrollada para el examen de la asignatura, consistente en un Backend estructurado, un Frontend interactivo y una base de datos relacional; todo orquestado mediante contenedores Docker.
